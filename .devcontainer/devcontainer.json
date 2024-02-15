@@ -1,0 +1,17 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+ 	"ghcr.io/devcontainers-contrib/features/activemq-sdkman:2": {}
+  }{
+ "latest":}{}
+ "Apache ActiveMQ" }{
+	"(Classic)"}{
+  "..."
+  "jdkversion"} {
+	 
+	"ms":"(default)"
+	"ghcr.io/devcontainers-contrib/features/activemq-sdkman:2": {}
+
+
+
+  
